@@ -9,8 +9,60 @@ block content
     .card-img-top {
       height: 290px
     } 
+    .carousel-item {
+      position: relative;
+    }
+    .carousel-item img {
+      z-index: 2;
+      object-fit:cover;
+      top: 0;
+      left: 0;
+      max-height: 600px;
+    }
+    
+    .product-header__subtitle {
+      font-size: 16px;
+      max-width: 95%;
+      font-weight: 500;
+      font-style: italic;
+      color: #9c9b9b;
+    }
+    
+    .product-header__title {
+      margin-bottom: 0.2em;
+      font-size: 2rem;
+      line-height: 1.15;
+      color: #393939;
+    }
+
+    @media(max-width:1180px) {
+     
+    }
+    @media(max-width:980px) {
+      .card-img-top {
+        height: 200px
+      } 
+    }
+
   .container-lg.overflow-hidden.mt-5
-    .row.justify-content-center
+    section#hero
+      #carouselExampleSlidesOnly.carousel.slide(data-bs-ride="carousel")
+        .carousel-inner
+          .carousel-item.active
+            img.d-block.w-100(src="https://images.unsplash.com/photo-1523585298601-d46ae038d7d3?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", alt="...")
+          .carousel-item
+            img.d-block.w-100(src="https://plus.unsplash.com/premium_photo-1681493944219-44118cf7754d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", alt="...")
+          .carousel-item
+            img.d-block.w-100(src="https://images.unsplash.com/photo-1611510338559-2f463335092c?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", alt="...")
+    section.mt-5#product
+      .product-header.my-5
+        .product-header__content
+          .container
+            h3.product-header__title.
+              Our Product Catalog
+            h5.product-header__subtitle.
+              Your number #1 online source for authentic items and services.
+    .row.justify-content-center.gx-2.gy-3.mb-5
       .col-6.col-lg-3.gap-3
         .card
           .p-2
