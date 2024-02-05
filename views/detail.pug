@@ -2,61 +2,38 @@ extends layout
 
 
 block content
-  .container
-    .heading-section
-      h2 Product Details
-    .row
-      .col-md-6
-        #slider.owl-carousel.product-slider.border.border-dark
-          .item
-            img(src="https://media.gettyimages.com/id/137996281/photo/blue-t-shirt.jpg?s=2048x2048&w=gi&k=20&c=zwuzc-U0Fpu_gGIkGvbqtX381oKMSeTPyxOBj4v42jk=")
-          .item
-            img(src="https://images.unsplash.com/photo-1633966887768-64f9a867bdba?q=80&w=2003&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")
-          .item
-            img(src="https://images.unsplash.com/photo-1605348532760-6753d2c43329?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")
-          .item
-            img(src="https://images.unsplash.com/photo-1636146049394-0924c2b66104?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")
+  -console.log(data)
+  .container-fluid.overflow-hidden.mt-5
+    .row.px-3
+      .col-12.col-md-6
+        #slider.owl-carousel.product-slider
+          each item in data.images
+            .item
+              img(src=`${item.path}`)
         #thumb.owl-carousel.product-thumb
-          .item
-            img(src="https://media.gettyimages.com/id/137996281/photo/blue-t-shirt.jpg?s=2048x2048&w=gi&k=20&c=zwuzc-U0Fpu_gGIkGvbqtX381oKMSeTPyxOBj4v42jk=")
-          .item
-            img(src="https://images.unsplash.com/photo-1633966887768-64f9a867bdba?q=80&w=2003&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")
-          .item
-            img(src="https://images.unsplash.com/photo-1605348532760-6753d2c43329?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")
-          .item
-            img(src="https://images.unsplash.com/photo-1636146049394-0924c2b66104?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")
-      .col-md-6
-        .product-dtl
-          .product-info
-            .product-name
-              h1(data-hook="product-title") Premium Plain Cotton Combed 24s Clothes
-            .product-price-discount
-              span Rp 180.000
-              span.text-danger.line-through Rp 250.000
-            .col-md-8.col-sm-12.buy-product.border.border-dark.mt-4
-              .title
-                h4.p-2 Buy :
-              .link.mb-3
-                a(href="http://", target="_blank", rel="noopener noreferrer")
-                  img(src="/images/icon/blibli.png" style="height: 60px;")
-                a(href="http://", target="_blank", rel="noopener noreferrer") 
-                  img(src="/images/icon/shopee.png" style="height: 60px;")
-                a(href="http://", target="_blank", rel="noopener noreferrer") 
-                  img(src="/images/icon/tiktokshop.png" style="height: 60px;")
-                a(href="http://", target="_blank", rel="noopener noreferrer") 
-                  img(src="/images/icon/wa.png" style="height: 45px;")
-            .tabs.mt-5 
-              ul.nav.nav-tabs.mb-3#ex1(role="tablist")
-                li.nav-item(role="presentation")
-                  a.nav-link.active#ex1-tab-1(data-bs-toggle="tab", href="#ex1-tabs-1", role="tab", aria-controls="ex1-tabs-1", aria-selected="true") Product Info
-                li.nav-item(role="presentation")
-                  a.nav-link#ex1-tab-2(data-bs-toggle="tab", href="#ex1-tabs-2", role="tab", aria-controls="ex1-tabs-2", aria-selected="false") Sizing
-              .tab-content#ex1-content
-                .tab-pane.fade.show.active#ex1-tabs-1(role="tabpanel", aria-labelledby="ex1-tab-1")
-                  p Shiny chrome & red web design with chrome studs.
-                  p Full grain heavyweight leather.
-                  p Made from scratch in Brooklyn NY.
-        
-                .tab-pane.fade#ex1-tabs-2(role="tabpanel", aria-labelledby="ex1-tab-2")
-                  p Small / medium fits waist sizes 30-36"
-                  p Large / X-Large fits waist sizes 33-39"
+          each item in data.images
+            .item
+              img(src=`${item.path}`)
+
+      .col-12.col-md-6
+        .row.px-3
+          .col-4
+            a(href=`${data.link.tokped}`, target="_blank", rel="noopener noreferrer")
+              .card.e-icon.shadow-sm
+                .card-body.d-flex.justify-content-center.align-items-center
+                  img(src="/images/icon/tokopedia.png")
+          .col-4
+            a(href=`${data.link.shopee}`, target="_blank", rel="noopener noreferrer")
+              .card.e-icon.shadow-sm
+                .card-body.d-flex.justify-content-center.align-items-center
+                  img(src="/images/icon/shopee.png")
+          .col-4
+            a(href=`${data.link.tiktok}`, target="_blank", rel="noopener noreferrer")
+              .card.e-icon.shadow-sm
+                .card-body.d-flex.justify-content-center.align-items-center
+                  img(src="/images/icon/tiktokshop.png")
+          .col-4.gy-2
+            a(href=`${data.link.wa}`, target="_blank", rel="noopener noreferrer")
+              .card.e-icon.shadow-sm
+                .card-body.d-flex.justify-content-center.align-items-center
+                  img(src="/images/icon/wa.png")

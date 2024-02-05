@@ -1,0 +1,100 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93384",
+      "name": "BORU NI RAJA ( Aksara Batak)",
+      "desc": "BORU NI RAJA ( Aksara Batak)",
+      "price": "70.000",
+      "img": "/images/product/item-1/2.png",
+      "detail": {
+        "name": "BORU NI RAJA ( Aksara Batak)",
+        "images": [
+          {
+            "path": "/images/product/item-1/2.png"
+          },
+          {
+            "path": "/images/product/item-1/3.png"
+          },
+          {
+            "path": "/images/product/item-1/4.png"
+          },
+          {
+            "path": "/images/product/item-1/4.png"
+          }
+        ],
+        "link": {
+          "shopee": "-",
+          "tiktok": "-",
+          "tokped": "https://www.tokopedia.com/batakhasian/tas-serut-batak-canvas-batakvs-hitam-f26e5?extParam=src%3Dshop%26whid%3D15795585",
+          "wa": "-"
+        }
+      }
+
+    },
+    {
+      "id": 1,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93384",
+      "name": "BORU NI RAJA ( Aksara Batak)",
+      "desc": "BORU NI RAJA ( Aksara Batak)",
+      "price": "70.000",
+      "img": "/images/product/item-1/2.png",
+      "detail": {
+        "name": "BORU NI RAJA ( Aksara Batak)",
+        "images": [
+          {
+            "path": "/images/product/item-1/2.png"
+          },
+          {
+            "path": "/images/product/item-1/3.png"
+          },
+          {
+            "path": "/images/product/item-1/4.png"
+          },
+          {
+            "path": "/images/product/item-1/4.png"
+          }
+        ],
+        "link": {
+          "shopee": "-",
+          "tiktok": "-",
+          "tokped": "https://www.tokopedia.com/batakhasian/tas-serut-batak-canvas-batakvs-hitam-f26e5?extParam=src%3Dshop%26whid%3D15795585",
+          "wa": "-"
+        }
+      }
+
+    },
+    {
+      "id": 1,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93384",
+      "name": "BORU NI RAJA ( Aksara Batak)",
+      "desc": "BORU NI RAJA ( Aksara Batak)",
+      "price": "70.000",
+      "img": "/images/product/item-1/2.png",
+      "detail": {
+        "name": "BORU NI RAJA ( Aksara Batak)",
+        "images": [
+          {
+            "path": "/images/product/item-1/2.png"
+          },
+          {
+            "path": "/images/product/item-1/3.png"
+          },
+          {
+            "path": "/images/product/item-1/4.png"
+          },
+          {
+            "path": "/images/product/item-1/4.png"
+          }
+        ],
+        "link": {
+          "shopee": "-",
+          "tiktok": "-",
+          "tokped": "https://www.tokopedia.com/batakhasian/tas-serut-batak-canvas-batakvs-hitam-f26e5?extParam=src%3Dshop%26whid%3D15795585",
+          "wa": "-"
+        }
+      }
+
+    }
+  ]
+}

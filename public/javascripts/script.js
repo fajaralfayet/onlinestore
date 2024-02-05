@@ -28,7 +28,6 @@ $(document).ready(function() {
           responsiveRefreshRate: 100
       }).on('changed.owl.carousel', syncPosition2);
   function syncPosition(el) {
-      console.log(el.item)
       var count = el.item.count - 1;
       var current = Math.round(el.item.index - (el.item.count / 2) - .5);
       if (current < 0) {
