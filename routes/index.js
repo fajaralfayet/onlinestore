@@ -15,12 +15,10 @@ router.get('/', function(req, res, next) {
 router.get('/detail/:uuid', function(req, res, next) {
   const uuid = req.params.uuid
   const data = product
-  const detailProduct = data. product.map(item => {
-    if (item.uuid === uuid) {
-      return item.detail;
-    }
-  })
-  res.render('detail', {data :detailProduct[0]});
+  const detailProduct = data.product
+    .filter(item => item.uuid === uuid)
+    .map(item => item.detail);
+  res.render('detail', { data: detailProduct });
 });
 
 
