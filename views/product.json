@@ -4,8 +4,8 @@
       "id": 1,
       "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93384",
       "name": "BORU NI RAJA ( Aksara Batak)",
-      "desc": "BORU NI RAJA ( Aksara Batak)",
-      "price": "70.000",
+      "desc": "",
+      "price": "105.000",
       "img": "/images/product/item-1/2.png",
       "detail": {
         "name": "BORU NI RAJA ( Aksara Batak)",
@@ -25,8 +25,8 @@
         ],
         "link": {
           "shopee": "https://shopee.co.id/Kaos-Boru-Ni-raja-Aksara-Batak-from-Batak-Hasian-i.981350954.17197666395?sp_atk=a723ee9d-119e-4f21-81cb-af5da4bbc716&xptdk=a723ee9d-119e-4f21-81cb-af5da4bbc716",
-          "tiktok": "https://www.tiktok.com/@batak.hasian",
-          "tokped": "https://www.tokopedia.com/batakhasian"
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNwxKxg/",
+          "tokped": "https://www.tokopedia.com/batakhasian/kaos-boru-ni-raja-aksara-biru-dongker-m-b39d9"
         }
       }
     },
@@ -34,8 +34,8 @@
       "id": 2,
       "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93385",
       "name": "HORAS (Aksara Batak)",
-      "desc": "HORAS (Aksara Batak)",
-      "price": "70.000",
+      "desc": "",
+      "price": "80.000",
       "img": "/images/product/2. HORAS (Aksara Batak)/7.png",
       "detail": {
         "name": "HORAS (Aksara Batak)",
@@ -57,203 +57,1168 @@
           }    
         ],
         "link": {
-          "shopee": "-",
-          "tiktok": "-",
-          "tokped": "https://www.tokopedia.com/batakhasian/tas-serut-batak-canvas-batakvs-hitam-f26e5?extParam=src%3Dshop%26whid%3D15795585"
+          "shopee": "https://shopee.co.id/Kaos-Horas-Kaos-Premium-Official-Merchandise-from-Batak-Hasian-i.981350954.23537801881?sp_atk=6041c9c7-17cd-4575-9d2d-850de36d9772&xptdk=6041c9c7-17cd-4575-9d2d-850de36d9772",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNwt7EC/",
+          "tokped": "https://www.tokopedia.com/batakhasian/kaos-horas-premium-putih-s?extParam=whid%3D15795585%26src%3Dshop"
         }
       }
     },
     {
       "id": 3,
       "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93386",
-      "name": "BORU NI RAJA ( Aksara Batak)",
-      "desc": "BORU NI RAJA ( Aksara Batak)",
-      "price": "70.000",
-      "img": "/images/product/item-1/2.png",
+      "name": "PINABORHAT NI HAPOGOSON (Versi 1)",
+      "desc": "",
+      "price": "89.000",
+      "img": "/images/product/3. PINABORHAT NI HAPOGOSON (Versi 1)/13.png",
       "detail": {
-        "name": "BORU NI RAJA ( Aksara Batak)",
+        "name": "PINABORHAT NI HAPOGOSON (Versi 1)",
         "images": [
           {
-            "path": "/images/product/item-1/2.png"
+            "path": "/images/product/3. PINABORHAT NI HAPOGOSON (Versi 1)/12.png"
           },
           {
-            "path": "/images/product/item-1/3.png"
+            "path": "/images/product/3. PINABORHAT NI HAPOGOSON (Versi 1)/13.png"
           },
           {
-            "path": "/images/product/item-1/4.png"
+            "path": "/images/product/3. PINABORHAT NI HAPOGOSON (Versi 1)/14.png"
           },
           {
-            "path": "/images/product/item-1/4.png"
+            "path": "/images/product/3. PINABORHAT NI HAPOGOSON (Versi 1)/15.png"
+          },
+          {
+            "path": "/images/product/3. PINABORHAT NI HAPOGOSON (Versi 1)/16.png"
+          },
+          {
+            "path": "/images/product/3. PINABORHAT NI HAPOGOSON (Versi 1)/17.png"
+          },
+          {
+            "path": "/images/product/3. PINABORHAT NI HAPOGOSON (Versi 1)/SIZE CHART KAOS.png"
           }
+
         ],
         "link": {
-          "shopee": "-",
-          "tiktok": "-",
-          "tokped": "https://www.tokopedia.com/batakhasian/tas-serut-batak-canvas-batakvs-hitam-f26e5?extParam=src%3Dshop%26whid%3D15795585"
+          "shopee": "https://shopee.co.id/PINABORHAT-NI-HAPOGOSON-KAOS-BATAK-PREMIUM-i.981350954.23573975349?sp_atk=0a32a71d-b133-4654-a052-2684faa9ac47&xptdk=0a32a71d-b133-4654-a052-2684faa9ac47 ",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNwwkgH/",
+          "tokped": "https://www.tokopedia.com/batakhasian/pinaborhat-ni-hapogoson-kaos-batak-premium-hitam-s-4377c?extParam=src%3Dshop%26whid%3D15795585"
         }
       }
 
     },
     {
-      "id": 3,
-      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93386",
-      "name": "BORU NI RAJA ( Aksara Batak)",
-      "desc": "BORU NI RAJA ( Aksara Batak)",
-      "price": "70.000",
-      "img": "/images/product/item-1/2.png",
+      "id": 4,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93387",
+      "name": "PINABORHAT NI HAPOGOSON (Versi 2)",
+      "desc": "",
+      "price": "89.000",
+      "img": "/images/product/4. PINABORHAT NI HAPOGOSON (Versi 2)/21.png",
       "detail": {
-        "name": "BORU NI RAJA ( Aksara Batak)",
+        "name": "PINABORHAT NI HAPOGOSON (Versi 2)",
         "images": [
           {
-            "path": "/images/product/item-1/2.png"
+            "path": "/images/product/4. PINABORHAT NI HAPOGOSON (Versi 2)/19.png"
           },
           {
-            "path": "/images/product/item-1/3.png"
+            "path": "/images/product/4. PINABORHAT NI HAPOGOSON (Versi 2)/20.png"
           },
           {
-            "path": "/images/product/item-1/4.png"
+            "path": "/images/product/4. PINABORHAT NI HAPOGOSON (Versi 2)/21.png"
           },
           {
-            "path": "/images/product/item-1/4.png"
+            "path": "/images/product/4. PINABORHAT NI HAPOGOSON (Versi 2)/22.png"
+          },
+          {
+            "path": "/images/product/4. PINABORHAT NI HAPOGOSON (Versi 2)/23.png"
+          },
+          {
+            "path": "/images/product/4. PINABORHAT NI HAPOGOSON (Versi 2)/24.png"
+          },
+          {
+            "path": "/images/product/4. PINABORHAT NI HAPOGOSON (Versi 2)/SIZE CHART KAOS.png"
           }
+
         ],
         "link": {
-          "shopee": "-",
-          "tiktok": "-",
-          "tokped": "https://www.tokopedia.com/batakhasian/tas-serut-batak-canvas-batakvs-hitam-f26e5?extParam=src%3Dshop%26whid%3D15795585"
+          "shopee": "https://shopee.co.id/PINABORHAT-NI-HAPOGOSON-2-KAOS-BATAK-PREMIUM-i.981350954.21490893400?sp_atk=db359ad9-a716-42c8-8f71-e561b66d669a&xptdk=db359ad9-a716-42c8-8f71-e561b66d669a",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNKAwGs/",
+          "tokped": "https://www.tokopedia.com/batakhasian/pinaborhat-ni-hapogoson-2-kaos-batak-premium-hitam-s-3cc4c?extParam=ivf%3Dfalse%26src%3Dsearch"
         }
       }
 
     },
     {
-      "id": 3,
-      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93386",
-      "name": "BORU NI RAJA ( Aksara Batak)",
-      "desc": "BORU NI RAJA ( Aksara Batak)",
-      "price": "70.000",
-      "img": "/images/product/item-1/2.png",
+      "id": 5,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93388",
+      "name": "PAPUNGU SINAMOT DOPE",
+      "desc": "",
+      "price": "89.000",
+      "img": "/images/product/5. PAPUNGU SINAMOT DOPE/28.png",
       "detail": {
-        "name": "BORU NI RAJA ( Aksara Batak)",
+        "name": "PAPUNGU SINAMOT DOPE",
         "images": [
           {
-            "path": "/images/product/item-1/2.png"
+            "path": "/images/product/5. PAPUNGU SINAMOT DOPE/26.png"
           },
           {
-            "path": "/images/product/item-1/3.png"
+            "path": "/images/product/5. PAPUNGU SINAMOT DOPE/27.png"
           },
           {
-            "path": "/images/product/item-1/4.png"
+            "path": "/images/product/5. PAPUNGU SINAMOT DOPE/28.png"
           },
           {
-            "path": "/images/product/item-1/4.png"
+            "path": "/images/product/5. PAPUNGU SINAMOT DOPE/29.png"
+          },
+          {
+            "path": "/images/product/5. PAPUNGU SINAMOT DOPE/30.png"
+          },
+          {
+            "path": "/images/product/5. PAPUNGU SINAMOT DOPE/34.png"
+          },
+          {
+            "path": "/images/product/5. PAPUNGU SINAMOT DOPE/35.png"
+          },
+          {
+            "path": "/images/product/5. PAPUNGU SINAMOT DOPE/36.png"
+          },
+          {
+            "path": "/images/product/5. PAPUNGU SINAMOT DOPE/37.png"
+          },
+          {
+            "path": "/images/product/5. PAPUNGU SINAMOT DOPE/SIZE CHART KAOS.png"
           }
-
         ],
         "link": {
-          "shopee": "-",
-          "tiktok": "-",
-          "tokped": "https://www.tokopedia.com/batakhasian/tas-serut-batak-canvas-batakvs-hitam-f26e5?extParam=src%3Dshop%26whid%3D15795585"
+          "shopee": "https://shopee.co.id/PAPUNGU-SINAMOT-DOPE-KAOS-BATAK-PREMIUM-i.981350954.16998139973?sp_atk=c2172976-b6e9-42f5-91fc-0165683abfdb&xptdk=c2172976-b6e9-42f5-91fc-0165683abfdb",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNKNBa8/",
+          "tokped": "https://www.tokopedia.com/batakhasian/papungu-sinamot-dope-kaos-batak-premium-putih-s-24269?extParam=src%3Dshop%26whid%3D15795585"
         }
       }
 
     },
     {
-      "id": 3,
-      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93386",
-      "name": "BORU NI RAJA ( Aksara Batak)",
-      "desc": "BORU NI RAJA ( Aksara Batak)",
-      "price": "70.000",
-      "img": "/images/product/item-1/2.png",
+      "id": 6,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93389",
+      "name": "TUAK",
+      "desc": "",
+      "price": "89.000",
+      "img": "/images/product/6. TUAK - MARMITU/40.png",
       "detail": {
-        "name": "BORU NI RAJA ( Aksara Batak)",
+        "name": "TUAK",
         "images": [
           {
-            "path": "/images/product/item-1/2.png"
+            "path": "/images/product/6. TUAK - MARMITU/39.png"
           },
           {
-            "path": "/images/product/item-1/3.png"
+            "path": "/images/product/6. TUAK - MARMITU/40.png"
           },
           {
-            "path": "/images/product/item-1/4.png"
+            "path": "/images/product/6. TUAK - MARMITU/41.png"
           },
           {
-            "path": "/images/product/item-1/4.png"
+            "path": "/images/product/6. TUAK - MARMITU/42.png"
+          },
+          {
+            "path": "/images/product/6. TUAK - MARMITU/43.png"
+          },
+          {
+            "path": "/images/product/6. TUAK - MARMITU/44.png"
+          },
+          {
+            "path": "/images/product/6. TUAK - MARMITU/45.png"
+          },
+          {
+            "path": "/images/product/6. TUAK - MARMITU/46.png"
+          },
+          {
+            "path": "/images/product/6. TUAK - MARMITU/47.png"
+          },
+          {
+            "path": "/images/product/6. TUAK - MARMITU/48.png"
+          },
+          {
+            "path": "/images/product/6. TUAK - MARMITU/49.png"
+          },
+          {
+            "path": "/images/product/6. TUAK - MARMITU/50.png"
+          },
+          {
+            "path": "/images/product/6. TUAK - MARMITU/50.png"
+          },
+          {
+            "path": "/images/product/6. TUAK - MARMITU/SIZE CHART KAOS.png"
           }
+
+
         ],
         "link": {
-          "shopee": "-",
-          "tiktok": "-",
-          "tokped": "https://www.tokopedia.com/batakhasian/tas-serut-batak-canvas-batakvs-hitam-f26e5?extParam=src%3Dshop%26whid%3D15795585"
+          "shopee": "https://shopee.co.id/TUAK-MARMITU-KAOS-BATAK-PREMIUM-i.981350954.16095339388?sp_atk=ad533c0c-d6b0-4a6b-80af-a280ecab0ab3&xptdk=ad533c0c-d6b0-4a6b-80af-a280ecab0ab3",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNKdSau/",
+          "tokped": "https://www.tokopedia.com/batakhasian/tuak-marmitu-kaos-batak-premium-putih-s-fa0af?extParam=whid%3D15795585%26src%3Dshop"
         }
       }
 
     },
     {
-      "id": 3,
-      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93386",
-      "name": "BORU NI RAJA ( Aksara Batak)",
-      "desc": "BORU NI RAJA ( Aksara Batak)",
-      "price": "70.000",
-      "img": "/images/product/item-1/2.png",
+      "id": 7,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93340",
+      "name": "SAE MA HOLAN BIANG PANDILAT",
+      "desc": "",
+      "price": "89.000",
+      "img": "/images/product/7. SAE MA HOLAN BIANG PANDILAT/53.png",
       "detail": {
-        "name": "BORU NI RAJA ( Aksara Batak)",
+        "name": "SAE MA HOLAN BIANG PANDILAT",
         "images": [
           {
-            "path": "/images/product/item-1/2.png"
+            "path": "/images/product/7. SAE MA HOLAN BIANG PANDILAT/52.png"
           },
           {
-            "path": "/images/product/item-1/3.png"
+            "path": "/images/product/7. SAE MA HOLAN BIANG PANDILAT/53.png"
           },
           {
-            "path": "/images/product/item-1/4.png"
+            "path": "/images/product/7. SAE MA HOLAN BIANG PANDILAT/54.png"
           },
           {
-            "path": "/images/product/item-1/4.png"
+            "path": "/images/product/7. SAE MA HOLAN BIANG PANDILAT/55.png"
+          },
+          {
+            "path": "/images/product/7. SAE MA HOLAN BIANG PANDILAT/SIZE CHART KAOS.png"
           }
         ],
         "link": {
-          "shopee": "-",
-          "tiktok": "-",
-          "tokped": "https://www.tokopedia.com/batakhasian/tas-serut-batak-canvas-batakvs-hitam-f26e5?extParam=src%3Dshop%26whid%3D15795585"
+          "shopee": "https://shopee.co.id/SAE-MA-HOLAN-BIANG-PANDILAT-KAOS-BATAK-PREMIUM-i.981350954.22748498022?sp_atk=84afcaa5-af2c-4b82-bbee-923d2beba239&xptdk=84afcaa5-af2c-4b82-bbee-923d2beba239",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNKYA6r/",
+          "tokped": "https://www.tokopedia.com/batakhasian/sae-ma-holan-biang-pandilat-kaos-batak-premium-hitam-s-b34ab?extParam=src%3Dshop%26whid%3D15795585"
         }
       }
 
     },
     {
-      "id": 3,
-      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93386",
-      "name": "BORU NI RAJA ( Aksara Batak)",
-      "desc": "BORU NI RAJA ( Aksara Batak)",
-      "price": "70.000",
-      "img": "/images/product/item-1/2.png",
+      "id": 8,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93341",
+      "name": "MOLO ADONG UTANGMU, BAYAR!",
+      "desc": "",
+      "price": "89.000",
+      "img": "/images/product/8. MOLO ADONG UTANGMU, BAYAR!/60.png",
       "detail": {
-        "name": "BORU NI RAJA ( Aksara Batak)",
+        "name": "MOLO ADONG UTANGMU, BAYAR!",
         "images": [
           {
-            "path": "/images/product/item-1/2.png"
+            "path": "/images/product/8. MOLO ADONG UTANGMU, BAYAR!/59.png"
           },
           {
-            "path": "/images/product/item-1/3.png"
+            "path": "/images/product/8. MOLO ADONG UTANGMU, BAYAR!/60.png"
           },
           {
-            "path": "/images/product/item-1/4.png"
+            "path": "/images/product/8. MOLO ADONG UTANGMU, BAYAR!/61.png"
           },
           {
-            "path": "/images/product/item-1/4.png"
+            "path": "/images/product/8. MOLO ADONG UTANGMU, BAYAR!/62.png"
+          },
+          {
+            "path": "/images/product/8. MOLO ADONG UTANGMU, BAYAR!/63.png"
+          },
+          {
+            "path": "/images/product/8. MOLO ADONG UTANGMU, BAYAR!/64.png"
+          },
+          {
+            "path": "/images/product/8. MOLO ADONG UTANGMU, BAYAR!/SIZE CHART KAOS.png"
+          }
+
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/MOLO-ADONG-UTANGMU-BAYAR-KAOS-BATAK-PREMIUM-i.981350954.22248498540?sp_atk=daf24ccf-e53d-4424-9357-00d2b7c5a8df&xptdk=daf24ccf-e53d-4424-9357-00d2b7c5a8df",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNKhNcP/",
+          "tokped": "https://www.tokopedia.com/batakhasian/molo-adong-utangmu-bayar-kaos-batak-premium-hitam-s-229a7?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 9,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93342",
+      "name": "BODAT (Versi 1)",
+      "desc": "",
+      "price": "89.000",
+      "img": "/images/product/9. BODAT (Versi 1)/67.png",
+      "detail": {
+        "name": "BODAT (Versi 1)",
+        "images": [
+          {
+            "path": "/images/product/9. BODAT (Versi 1)/66.png"
+          },
+          {
+            "path": "/images/product/9. BODAT (Versi 1)/67.png"
+          },
+          {
+            "path": "/images/product/9. BODAT (Versi 1)/SIZE CHART KAOS.png"
           }
         ],
         "link": {
-          "shopee": "-",
-          "tiktok": "-",
-          "tokped": "https://www.tokopedia.com/batakhasian/tas-serut-batak-canvas-batakvs-hitam-f26e5?extParam=src%3Dshop%26whid%3D15795585"
+          "shopee": "https://shopee.co.id/BODAT-1-KAOS-BATAK-PREMIUM-i.981350954.20390895298?sp_atk=fbe14d31-e421-4908-aafd-9f92c087b5db&xptdk=fbe14d31-e421-4908-aafd-9f92c087b5db",
+          "tiktok": "",
+          "tokped": "https://www.tokopedia.com/batakhasian/bodat-1-kaos-batak-premium-hitam-s-bae14?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 10,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93343",
+      "name": "BODAT (Versi 2)",
+      "desc": "",
+      "price": "89.000",
+      "img": "/images/product/10. BODAT (Versi 2)/70.png",
+      "detail": {
+        "name": "BODAT (Versi 2)",
+        "images": [
+          {
+            "path": "/images/product/10. BODAT (Versi 2)/69.png"
+          },
+          {
+            "path": "/images/product/10. BODAT (Versi 2)/69.png"
+          },
+          {
+            "path": "/images/product/10. BODAT (Versi 2)/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/BODAT-2-KAOS-BATAK-PREMIUM-i.981350954.19781941639?sp_atk=8927be0f-3ff6-4c5f-a9c9-f768e699a907&xptdk=8927be0f-3ff6-4c5f-a9c9-f768e699a907",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNKD3U7/",
+          "tokped": "https://www.tokopedia.com/batakhasian/bodat-2-kaos-batak-premium-hitam-s-42d9e?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 11,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93344",
+      "name": "BATAK VS EVERYBODY",
+      "desc": "BATAK VS EVERYBODY",
+      "price": "79.000",
+      "img": "/images/product/11. BATAK VS EVERYBODY/73.png",
+      "detail": {
+        "name": "BATAK VS EVERYBODY",
+        "images": [
+          {
+            "path": "/images/product/11. BATAK VS EVERYBODY/72.png"
+          },
+          {
+            "path": "/images/product/11. BATAK VS EVERYBODY/73.png"
+          },
+          {
+            "path": "/images/product/11. BATAK VS EVERYBODY/74.png"
+          },
+          {
+            "path": "/images/product/11. BATAK VS EVERYBODY/75.png"
+          },
+          {
+            "path": "/images/product/11. BATAK VS EVERYBODY/SIZE CHART KAOS.png"
+          }
+
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/BATAK-VS-EVERYBODY-KAOS-BATAK-PREMIUM-i.981350954.20181941434?sp_atk=d011f1ba-2138-4ba7-9e24-3f5f41e6caf3&xptdk=d011f1ba-2138-4ba7-9e24-3f5f41e6caf3",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNKpLKA/",
+          "tokped": "https://www.tokopedia.com/batakhasian/batak-vs-everybody-kaos-batak-premium-putih-s-e6494?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 12,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93345",
+      "name": "PINOMAT UNANG MANUSAI",
+      "desc": "PINOMAT UNANG MANUSAI",
+      "price": "79.000",
+      "img": "/images/product/12. PINOMAT UNANG MANUSAI/78.png",
+      "detail": {
+        "name": "PINOMAT UNANG MANUSAI",
+        "images": [
+          {
+            "path": "/images/product/12. PINOMAT UNANG MANUSAI/77.png"
+          },
+          {
+            "path": "/images/product/12. PINOMAT UNANG MANUSAI/78.png"
+          },
+          {
+            "path": "/images/product/12. PINOMAT UNANG MANUSAI/79.png"
+          },
+          {
+            "path": "/images/product/12. PINOMAT UNANG MANUSAI/80.png"
+          },
+          {
+            "path": "/images/product/12. PINOMAT UNANG MANUSAI/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/PINOMAT-UNANG-MANUSAI-KAOS-BATAK-PREMIUM-i.981350954.22548498662?sp_atk=6e37a8ae-dc33-40a5-9d08-6e46fb9fc8f5&xptdk=6e37a8ae-dc33-40a5-9d08-6e46fb9fc8f5",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNK4gTh/",
+          "tokped": "https://www.tokopedia.com/batakhasian/pinomat-unang-manusai-kaos-batak-premium-putih-s-d7663?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 13,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93346",
+      "name": "SINAMOT",
+      "desc": "SINAMOT",
+      "price": "79.000",
+      "img": "/images/product/13. SINAMOT/83.png",
+      "detail": {
+        "name": "SINAMOT",
+        "images": [
+          {
+            "path": "/images/product/13. SINAMOT/82.png"
+          },
+          {
+            "path": "/images/product/13. SINAMOT/83.png"
+          },
+          {
+            "path": "/images/product/13. SINAMOT/84.png"
+          },
+          {
+            "path": "/images/product/13. SINAMOT/85.png"
+          },
+          {
+            "path": "/images/product/13. SINAMOT/SIZE CHART KAOS.png"
+          }
+
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/SINAMOT-KAOS-BATAK-PREMIUM-i.981350954.22474034411?sp_atk=3a10d3c2-3357-42c6-b74f-f335f30940f4&xptdk=3a10d3c2-3357-42c6-b74f-f335f30940f4",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNKcwc7/",
+          "tokped": "https://www.tokopedia.com/batakhasian/sinamot-kaos-batak-premium-putih-s-d8033?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 14,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93386",
+      "name": "HASIAN",
+      "desc": "HASIAN",
+      "price": "79.000",
+      "img": "/images/product/14. HASIAN/88.png",
+      "detail": {
+        "name": "HASIAN",
+        "images": [
+          {
+            "path": "/images/product/14. HASIAN/87.png"
+          },
+          {
+            "path": "/images/product/14. HASIAN/88.png"
+          },
+          {
+            "path": "/images/product/14. HASIAN/89.png"
+          },
+          {
+            "path": "/images/product/14. HASIAN/90.png"
+          },
+          {
+            "path": "/images/product/14. HASIAN/SIZE CHART KAOS.png"
+          }
+          
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/HASIAN-KAOS-BATAK-PREMIUM-i.981350954.18681977203?sp_atk=6f08e148-282b-4b95-87f1-d6eeb46e829d&xptdk=6f08e148-282b-4b95-87f1-d6eeb46e829d",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNKCteK/",
+          "tokped": "https://shopee.co.id/HASIAN-KAOS-BATAK-PREMIUM-i.981350954.18681977203?sp_atk=6f08e148-282b-4b95-87f1-d6eeb46e829d&xptdk=6f08e148-282b-4b95-87f1-d6eeb46e829d"
+        }
+      }
+
+    },
+    {
+      "id": 15,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93387",
+      "name": "PARIBAN",
+      "desc": "PARIBAN",
+      "price": "79.000",
+      "img": "/images/product/15. PARIBAN/92.png",
+      "detail": {
+        "name": "PARIBAN",
+        "images": [
+          {
+            "path": "/images/product/15. PARIBAN/92.png"
+          },
+          {
+            "path": "/images/product/15. PARIBAN/92.png"
+          },
+          {
+            "path": "/images/product/15. PARIBAN/94.png"
+          },
+          {
+            "path": "/images/product/15. PARIBAN/95.png"
+          },
+          {
+            "path": "/images/product/15. PARIBAN/SIZE CHART KAOS.png"
+          }
+          
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/PARIBAN-KAOS-BATAK-PREMIUM-i.981350954.22248544368?sp_atk=53285769-9edd-4ae5-b714-95ae7ce89f38&xptdk=53285769-9edd-4ae5-b714-95ae7ce89f38",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNKVTNT/",
+          "tokped": "https://www.tokopedia.com/batakhasian/pariban-kaos-batak-premium-putih-s-8b2ae?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 16,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93388",
+      "name": "HEANG",
+      "desc": "HEANG",
+      "price": "79.000",
+      "img": "/images/product/16. HEANG/97.png",
+      "detail": {
+        "name": "HEANG",
+        "images": [
+          {
+            "path": "/images/product/16. HEANG/97.png"
+          },
+          {
+            "path": "/images/product/16. HEANG/98.png"
+          },
+          {
+            "path": "/images/product/16. HEANG/99.png"
+          },
+          {
+            "path": "/images/product/16. HEANG/100.png"
+          },
+          {
+            "path": "/images/product/16. HEANG/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/HEANG-HANYA-ENGKAU-YANG-KUSAYANG-KAOS-BATAK-PREMIUM-i.981350954.16995342695?sp_atk=45c1fc23-d0b9-4505-b555-3e24a814cdf8&xptdk=45c1fc23-d0b9-4505-b555-3e24a814cdf8",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNKpFWJ/",
+          "tokped": "https://www.tokopedia.com/batakhasian/heang-kaos-batak-premium-putih-s-75113?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93389",
+      "name": "NKRI HARGA MATI, BATAK HARGA DIRI",
+      "desc": "NKRI HARGA MATI, BATAK HARGA DIRI",
+      "price": "79.000",
+      "img": "/images/product/17. NKRI HARGA MATI, BATAK HARGA DIRI/103.png",
+      "detail": {
+        "name": "NKRI HARGA MATI, BATAK HARGA DIRI",
+        "images": [
+          {
+            "path": "/images/product/17. NKRI HARGA MATI, BATAK HARGA DIRI/102.png"
+          },
+          {
+            "path": "/images/product/17. NKRI HARGA MATI, BATAK HARGA DIRI/103.png"
+          },
+          {
+            "path": "/images/product/17. NKRI HARGA MATI, BATAK HARGA DIRI/104.png"
+          },
+          {
+            "path": "/images/product/17. NKRI HARGA MATI, BATAK HARGA DIRI/105.png"
+          },
+          {
+            "path": "/images/product/17. NKRI HARGA MATI, BATAK HARGA DIRI/SIZE CHART KAOS.png"
+          }
+
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/NKRI-HARGA-MATI-BATAK-HARGA-DIRI-KAOS-BATAK-PREMIUM-i.981350954.22348544654?sp_atk=a32685d9-b791-4667-b202-3b777ea84f20&xptdk=a32685d9-b791-4667-b202-3b777ea84f20",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNKC4HA/",
+          "tokped": "https://www.tokopedia.com/batakhasian/nkri-harga-mati-batak-harga-diri-kaos-batak-premium-putih-s-5c54d"
+        }
+      }
+
+    },
+    {
+      "id": 18,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93390",
+      "name": "UNANG HOLAN HATA",
+      "desc": "UNANG HOLAN HATA",
+      "price": "79.000",
+      "img": "/images/product/18. UNANG HOLAN HATA/107.png",
+      "detail": {
+        "name": "UNANG HOLAN HATA",
+        "images": [
+          {
+            "path": "/images/product/18. UNANG HOLAN HATA/107.png"
+          },
+          {
+            "path": "/images/product/18. UNANG HOLAN HATA/108.png"
+          },
+          {
+            "path": "/images/product/18. UNANG HOLAN HATA/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/UNANG-HOLAN-HATA-KAOS-BATAK-PREMIUM-i.981350954.23848544928?sp_atk=08efe22d-2c8b-4edb-8d64-e3dc5ee4f4ed&xptdk=08efe22d-2c8b-4edb-8d64-e3dc5ee4f4ed",
+          "tiktok": "https://www.tokopedia.com/batakhasian/unang-holan-hata-kaos-batak-premium-putih-s-68480?extParam=src%3Dshop%26whid%3D15795585",
+          "tokped": "https://vt.tokopedia.com/t/ZSFNK4WU4/"
+        }
+      }
+
+    },
+    {
+      "id": 19,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93391",
+      "name": "HAMORAON, HAGABEON, HASANGAPON. (Versi 1)",
+      "desc": "HAMORAON, HAGABEON, HASANGAPON. (Versi 1)",
+      "price": "79.000",
+      "img": "/images/product/19. HAMORAON, HAGABEON, HASANGAPON. (Versi 1)/110.png",
+      "detail": {
+        "name": "HAMORAON, HAGABEON, HASANGAPON. (Versi 1)",
+        "images": [
+          {
+            "path": "/images/product/19. HAMORAON, HAGABEON, HASANGAPON. (Versi 1)/110.png"
+          },
+          {
+            "path": "/images/product/19. HAMORAON, HAGABEON, HASANGAPON. (Versi 1)/111.png"
+          },
+          {
+            "path": "/images/product/19. HAMORAON, HAGABEON, HASANGAPON. (Versi 1)/112.png"
+          },
+          {
+            "path": "/images/product/19. HAMORAON, HAGABEON, HASANGAPON. (Versi 1)/113.png"
+          },
+          {
+            "path": "/images/product/19. HAMORAON, HAGABEON, HASANGAPON. (Versi 1)/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/HAMORAON-HAGABEON-HASANGAPON-KAOS-BATAK-PREMIUM-i.981350954.23474042127?sp_atk=536c7dff-c28a-4572-976a-5afa9bd45ee4&xptdk=536c7dff-c28a-4572-976a-5afa9bd45ee4",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNKp2Tk/",
+          "tokped": "https://www.tokopedia.com/batakhasian/hamoraon-hagabeon-hasangapon-kaos-batak-premium-putih-s-b0c24?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 20,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93392",
+      "name": "HAMORAON, HAGABEON, HASANGAPON. (Versi 2)",
+      "desc": "HAMORAON, HAGABEON, HASANGAPON. (Versi 2)",
+      "price": "79.000",
+      "img": "/images/product/20. HAMORAON, HAGABEON, HASANGAPON. (Versi 2)/115.png",
+      "detail": {
+        "name": "HAMORAON, HAGABEON, HASANGAPON. (Versi 2)",
+        "images": [
+          {
+            "path": "/images/product/20. HAMORAON, HAGABEON, HASANGAPON. (Versi 2)/115.png"
+          },
+          {
+            "path": "/images/product/20. HAMORAON, HAGABEON, HASANGAPON. (Versi 2)/116.png"
+          },
+          {
+            "path": "/images/product/20. HAMORAON, HAGABEON, HASANGAPON. (Versi 2)/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/HAMORAON-HAGABEON-HASANGAPON-2-KAOS-BATAK-PREMIUM-i.981350954.22748544186?sp_atk=bb098a4b-e036-48d8-9a61-9c8c1b8599b1&xptdk=bb098a4b-e036-48d8-9a61-9c8c1b8599b1",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFNK78Hr/",
+          "tokped": "https://www.tokopedia.com/batakhasian/hamoraon-hagabeon-hasangapon-2-kaos-batak-premium-putih-s-847b9?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 21,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93393",
+      "name": "INDONESIA BELUM LENGKAP TANPA ORANG BATAK",
+      "desc": "",
+      "price": "79.000",
+      "img": "/images/product/21. INDONESIA BELUM LENGKAP TANPA ORANG BATAK/119.png",
+      "detail": {
+        "name": "INDONESIA BELUM LENGKAP TANPA ORANG BATAK",
+        "images": [
+          {
+            "path": "/images/product/21. INDONESIA BELUM LENGKAP TANPA ORANG BATAK/118.png"
+          },
+          {
+            "path": "/images/product/21. INDONESIA BELUM LENGKAP TANPA ORANG BATAK/119.png"
+          },
+          {
+            "path": "/images/product/21. INDONESIA BELUM LENGKAP TANPA ORANG BATAK/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/INDONESIA-TIDAK-LENGKAP-TANPA-ORANG-BATAK-KAOS-BATAK-PREMIUM-i.981350954.20990901221?sp_atk=a0e8ff88-748b-4029-81af-3b20f638090d&xptdk=a0e8ff88-748b-4029-81af-3b20f638090d",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFFYaGUM/",
+          "tokped": "https://www.tokopedia.com/batakhasian/indonesia-belum-lengkap-tanpa-orang-batak-kaos-batak-premium-putih-s-4ffae?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 22,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93394",
+      "name": "BORJONG",
+      "desc": "",
+      "price": "79.000",
+      "img": "/images/product/22. BORJONG/124.png",
+      "detail": {
+        "name": "BORJONG",
+        "images": [
+          {
+            "path": "/images/product/22. BORJONG/124.png"
+          },
+          {
+            "path": "/images/product/22. BORJONG/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/BORJONG-KAOS-BATAK-PREMIUM-i.981350954.22648540143?sp_atk=e6644add-ce04-4841-ba79-a62f45d39181&xptdk=e6644add-ce04-4841-ba79-a62f45d39181",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFFYUHsU/",
+          "tokped": "https://www.tokopedia.com/batakhasian/borjong-kaos-batak-premium-s-7ec09?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 23,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93395",
+      "name": "LATTEUNG",
+      "desc": "",
+      "price": "79.000",
+      "img": "/images/product/23. LATTEUNG/125.png",
+      "detail": {
+        "name": "LATTEUNG",
+        "images": [
+          {
+            "path": "/images/product/23. LATTEUNG/125.png"
+          },
+          {
+            "path": "/images/product/23. LATTEUNG/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/LATTEUNG-KAOS-BATAK-PREMIUM-i.981350954.18890915191?sp_atk=7d3a48bd-dc0c-4e92-aa2d-c28d7ca2e3a3&xptdk=7d3a48bd-dc0c-4e92-aa2d-c28d7ca2e3a3",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFFY5WmB/",
+          "tokped": "https://www.tokopedia.com/batakhasian/latteung-kaos-batak-premium-s-a43a7?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 24,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93395",
+      "name": "LAPPET",
+      "desc": "",
+      "price": "79.000",
+      "img": "/images/product/item-1/2.png",
+      "detail": {
+        "name": "LAPPET",
+        "images": [
+          {
+            "path": "/images/product/item-1/125.png"
+          },
+          {
+            "path": "/images/product/item-1/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/LAPPET-KAOS-BATAK-PREMIUM-i.981350954.23374038900?sp_atk=8e154448-488d-446e-a187-9a0ebcce0a3f&xptdk=8e154448-488d-446e-a187-9a0ebcce0a3f",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFFYtM2e/",
+          "tokped": "https://www.tokopedia.com/batakhasian/lappet-kaos-batak-premium-s-a526d?extParam=whid%3D15795585%26src%3Dshop"
+        }
+      }
+
+    },
+    {
+      "id": 25,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93396",
+      "name": "BOJAK",
+      "desc": "",
+      "price": "79.000",
+      "img": "/images/product/25. BOJAK/127.png",
+      "detail": {
+        "name": "BOJAK",
+        "images": [
+          {
+            "path": "/images/product/25. BOJAK/127.png"
+          },
+          {
+            "path": "/images/product/25. BOJAK/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/BOJAK-KAOS-BATAK-PREMIUM-i.981350954.20481951923?sp_atk=53ecf5a8-5a14-43d0-bf33-bd0e1b72c6bb&xptdk=53ecf5a8-5a14-43d0-bf33-bd0e1b72c6bb",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFFYmXMV/",
+          "tokped": "https://www.tokopedia.com/batakhasian/bojak-kaos-batak-premium-s-a9d96?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 26,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93397",
+      "name": "BABIAT (Versi 2)",
+      "desc": "",
+      "price": "79.000",
+      "img": "/images/product/26. BABIAT (Versi 2)/KATALOG WEB.png",
+      "detail": {
+        "name": "BABIAT (Versi 2)",
+        "images": [
+          {
+            "path": "/images/product/26. BABIAT (Versi 2)/KATALOG WEB.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/BABIAT-2-KAOS-BATAK-PREMIUM-i.981350954.22748552002?sp_atk=5310e398-1b33-4819-ba49-434f01f48b3d&xptdk=5310e398-1b33-4819-ba49-434f01f48b3d",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFF28VJP/",
+          "tokped": "https://www.tokopedia.com/batakhasian/babiat-2-kaos-batak-premium-s-8ff98?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 27,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93398",
+      "name": "BODAT (ADA LIMPOOL DISITU LEK_)",
+      "desc": "",
+      "price": "79.000",
+      "img": "/images/product/26. BODAT (ADA LIMPOOL DISITU LEK_)/SIZE CHART KAOS.png",
+      "detail": {
+        "name": "BODAT (ADA LIMPOOL DISITU LEK_)",
+        "images": [
+          {
+            "path": "/images/product/item-1/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/BODAT-ADA-LIMPOOL-DI-SITU-LEK-KAOS-BATAK-PREMIUM-i.981350954.22148553146?sp_atk=2a4dfd63-7b5f-4e28-bb81-765697bcd8d4&xptdk=2a4dfd63-7b5f-4e28-bb81-765697bcd8d4",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFF2JEpG/",
+          "tokped": "https://www.tokopedia.com/batakhasian/bodat-ada-disitu-limpool-lek-kaos-batak-premium-s-6d065?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 28,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93399",
+      "name": "ANAK MEDAN!",
+      "desc": "",
+      "price": "79.000",
+      "img": "/images/product/27. ANAK MEDAN!/131.png",
+      "detail": {
+        "name": "ANAK MEDAN!",
+        "images": [
+          {
+            "path": "/images/product/27. ANAK MEDAN!/131.png"
+          },
+          {
+            "path": "/images/product/27. ANAK MEDAN!/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/ANAK-MEDAN-KAOS-BATAK-PREMIUM-i.981350954.20290901791?sp_atk=75a43649-098e-40e9-aaf8-013f94a9c71f&xptdk=75a43649-098e-40e9-aaf8-013f94a9c71f",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFF26aU5/",
+          "tokped": "https://www.tokopedia.com/batakhasian/anak-medan-kaos-batak-premium-s-5d751?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 29,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93100",
+      "name": "HORAS BAH!",
+      "desc": "",
+      "price": "79.000",
+      "img": "/images/product/28. HORAS BAH!/132.png",
+      "detail": {
+        "name": "HORAS BAH!",
+        "images": [
+          {
+            "path": "/images/product/28. HORAS BAH!/132.png"
+          },
+          {
+            "path": "/images/product/28. HORAS BAH!/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/HORAS-BAH-KAOS-BATAK-PREMIUM-i.981350954.20181962274?sp_atk=ff98553f-be8b-4fda-856f-82731799a631&xptdk=ff98553f-be8b-4fda-856f-82731799a631",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFFYEpdA/",
+          "tokped": "https://www.tokopedia.com/batakhasian/horas-bah-kaos-batak-premium-s-f6568?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 30,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93101",
+      "name": "ORANG BATAK!",
+      "desc": "",
+      "price": "79.000",
+      "img": "/images/product/29. ORANG BATAK!/133.png",
+      "detail": {
+        "name": "ORANG BATAK!",
+        "images": [
+          {
+            "path": "/images/product/29. ORANG BATAK!/133.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/ORANG-BATAK-KAOS-BATAK-PREMIUM-i.981350954.22248556260?sp_atk=fcbc8007-ae2e-4e6f-a3d3-2a32103db109&xptdk=fcbc8007-ae2e-4e6f-a3d3-2a32103db109",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFFY7Wk2/",
+          "tokped": "https://www.tokopedia.com/batakhasian/orang-batak-kaos-batak-premium-s-7edd3?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 31,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93102",
+      "name": "RIBAK SUDE!",
+      "desc": "",
+      "price": "70.000",
+      "img": "/images/product/30. RIBAK SUDE!/134.png",
+      "detail": {
+        "name": "RIBAK SUDE!",
+        "images": [
+          {
+            "path": "/images/product/30. RIBAK SUDE!/134.png"
+          },
+          {
+            "path": "/images/product/30. RIBAK SUDE!/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/RIBAK-SUDE-KAOS-BATAK-PREMIUM-i.981350954.21590910838?sp_atk=e54c78c2-7f0f-4aef-8dcc-fabcaa77ffd0&xptdk=e54c78c2-7f0f-4aef-8dcc-fabcaa77ffd0",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFF2Dv9G/",
+          "tokped": "https://www.tokopedia.com/batakhasian/ribak-sude-kaos-batak-premium-s-20564?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 32,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93103",
+      "name": "BODAT (Versi 3)",
+      "desc": "",
+      "price": "70.000",
+      "img": "/images/product/31. BODAT (Versi 3)/136.png",
+      "detail": {
+        "name": "BODAT (Versi 3)",
+        "images": [
+          {
+            "path": "/images/product/31. BODAT (Versi 3)/136.png"
+          },
+          {
+            "path": "/images/product/31. BODAT (Versi 3)/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/BODAT-3-KAOS-BATAK-PREMIUM-i.981350954.22048557360?sp_atk=3acf174c-7fa4-46fb-ad98-73bd9a4c800c&xptdk=3acf174c-7fa4-46fb-ad98-73bd9a4c800c",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFF21dek/",
+          "tokped": "https://www.tokopedia.com/batakhasian/bodat-3-kaos-batak-premium-s-6ca9f?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 33,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93104",
+      "name": "BODAT (Versi 4)",
+      "desc": "",
+      "price": "70.000",
+      "img": "/images/product/32. BODAT (Versi 4)/137.png",
+      "detail": {
+        "name": "BODAT (Versi 4)",
+        "images": [
+          {
+            "path": "/images/product/32. BODAT (Versi 4)/137.png"
+          },
+          {
+            "path": "/images/product/32. BODAT (Versi 4)/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/BODAT-4-KAOS-BATAK-PREMIUM-i.981350954.23648557016?sp_atk=e5c0ead4-a176-40ec-9447-e912ade7f116&xptdk=e5c0ead4-a176-40ec-9447-e912ade7f116",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFF22R1w/",
+          "tokped": "https://www.tokopedia.com/batakhasian/bodat-4-kaos-batak-premium-s-cc33d?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 34,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93105",
+      "name": "BODAT (Versi 5)",
+      "desc": "",
+      "price": "70.000",
+      "img": "/images/product/33. BODAT (Versi 5)/138.png",
+      "detail": {
+        "name": "BODAT (Versi 5)",
+        "images": [
+          {
+            "path": "/images/product/33. BODAT (Versi 5)/138.png"
+          },
+          {
+            "path": "/images/product/33. BODAT (Versi 5)/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/BODAT-5-KAOS-BATAK-PREMIUM-i.981350954.23174040645?sp_atk=f2c1b2a7-a138-48c1-969c-5bf524974cbe&xptdk=f2c1b2a7-a138-48c1-969c-5bf524974cbe",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFFYWKyU/",
+          "tokped": "https://www.tokopedia.com/batakhasian/bodat-5-kaos-batak-premium-s-15a2c?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 35,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93106",
+      "name": "BODAT ( PARUTANG-UTANG BUSUK)",
+      "desc": "",
+      "price": "70.000",
+      "img": "/images/product/34. BODAT ( PARUTANG-UTANG BUSUK)/139.png",
+      "detail": {
+        "name": "BODAT ( PARUTANG-UTANG BUSUK)",
+        "images": [
+          {
+            "path": "/images/product/34. BODAT ( PARUTANG-UTANG BUSUK)/139.png"
+          },
+          {
+            "path": "/images/product/34. BODAT ( PARUTANG-UTANG BUSUK)/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/BODAT-PARUTANG-UTANG-BUSUK-KAOS-BATAK-PREMIUM-i.981350954.23148554124?sp_atk=cf8f5d61-f73f-4417-be1c-36142d832e4b&xptdk=cf8f5d61-f73f-4417-be1c-36142d832e4b",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFF2yRuH/",
+          "tokped": "https://www.tokopedia.com/batakhasian/bodat-parutang-busuk-kaos-batak-premium-s-88c7a?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 36,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93107",
+      "name": "BODAT (PINJAM DULU LIMPOOL LEK)",
+      "desc": "",
+      "price": "70.000",
+      "img": "/images/product/35. BODAT (PINJAM DULU LIMPOOL LEK)/140.png",
+      "detail": {
+        "name": "35. BODAT (PINJAM DULU LIMPOOL LEK)",
+        "images": [
+          {
+            "path": "/images/product/35. BODAT (PINJAM DULU LIMPOOL LEK)/140.png"
+          },
+          {
+            "path": "/images/product/35. BODAT (PINJAM DULU LIMPOOL LEK)/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/BODAT-PINJAM-DULU-LIMPOOL-LEK-KAOS-BATAK-PREMIUM-i.981350954.18890920520?sp_atk=961fcaca-1198-4dc5-8183-a9c031ecd6ab&xptdk=961fcaca-1198-4dc5-8183-a9c031ecd6ab",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFF2kWKo/",
+          "tokped": "https://www.tokopedia.com/batakhasian/bodat-pinjam-dulu-limpool-lek-kaos-batak-premium-s-3c173?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 37,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93108",
+      "name": "BODAT (ADA LIMPOOL DISITU LEK)",
+      "desc": "",
+      "price": "70.000",
+      "img": "/images/product/36. BODAT (ADA LIMPOOL DISITU LEK)/141.png",
+      "detail": {
+        "name": "BODAT (ADA LIMPOOL DISITU LEK)",
+        "images": [
+          {
+            "path": "/images/product/36. BODAT (ADA LIMPOOL DISITU LEK)/141.png"
+          },
+          {
+            "path": "/images/product/36. BODAT (ADA LIMPOOL DISITU LEK)/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/BODAT-ADA-LIMPOOL-DI-SITU-LEK-KAOS-BATAK-PREMIUM-i.981350954.22148553146?sp_atk=ec24e255-5d64-4a50-9b3c-3266a12d7695&xptdk=ec24e255-5d64-4a50-9b3c-3266a12d7695",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFF2QKKv/",
+          "tokped": "https://www.tokopedia.com/batakhasian/bodat-ada-disitu-limpool-lek-kaos-batak-premium-s-6d065?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 38,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93109",
+      "name": "HORAS (Versi 2)",
+      "desc": "",
+      "price": "70.000",
+      "img": "/images/product/37. HORAS (Versi 2)/143.png",
+      "detail": {
+        "name": "HORAS (Versi 2)",
+        "images": [
+          {
+            "path": "/images/product/37. HORAS (Versi 2)/143.png"
+          },
+          {
+            "path": "/images/product/37. HORAS (Versi 2)/144.png"
+          },
+          {
+            "path": "/images/product/37. HORAS (Versi 2)/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/BODAT-PINJAM-DULU-LIMPOOL-LEK-KAOS-BATAK-PREMIUM-i.981350954.18890920520?sp_atk=961fcaca-1198-4dc5-8183-a9c031ecd6ab&xptdk=961fcaca-1198-4dc5-8183-a9c031ecd6ab",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFF2u1we/",
+          "tokped": "https://www.tokopedia.com/batakhasian/horas-2-kaos-batak-premium-putih-s-64ec2?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 39,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93110",
+      "name": "TUAK (Versi 2)",
+      "desc": "",
+      "price": "70.000",
+      "img": "/images/product/38. TUAK (Versi 2)/146.png",
+      "detail": {
+        "name": "TUAK (Versi 2)",
+        "images": [
+          {
+            "path": "/images/product/32. BODAT (Versi 4)/146.png"
+          },
+          {
+            "path": "/images/product/32. BODAT (Versi 4)/147.png"
+          },
+          {
+            "path": "/images/product/32. BODAT (Versi 4)/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/TUAK-2-KAOS-BATAK-PREMIUM-i.981350954.22448549589?sp_atk=41cce9f3-0954-4bc2-a919-38a2207a93e8&xptdk=41cce9f3-0954-4bc2-a919-38a2207a93e8",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFF2VgY5/",
+          "tokped": "https://www.tokopedia.com/batakhasian/tuak-2-kaos-batak-premium-putih-s-a5f55?extParam=src%3Dshop%26whid%3D15795585"
+        }
+      }
+
+    },
+    {
+      "id": 40,
+      "uuid": "10f8e204-2e4b-4593-9e4f-ba37c7f93111",
+      "name": "JEKA SARAGIH - UFC (Limited Edition)",
+      "desc": "",
+      "price": "70.000",
+      "img": "/images/product/39. JEKA SARAGIH - UFC (Limited Edition)/KATALOG WEB (1).png",
+      "detail": {
+        "name": "JEKA SARAGIH - UFC (Limited Edition)",
+        "images": [
+          {
+            "path": "/images/product/39. JEKA SARAGIH - UFC (Limited Edition)/KATALOG WEB (1).png"
+          },
+          {
+            "path": "/images/product/39. JEKA SARAGIH - UFC (Limited Edition)/SIZE CHART KAOS.png"
+          }
+        ],
+        "link": {
+          "shopee": "https://shopee.co.id/Kaos-Jeka-Saragih-(UFC)-Limited-Edition-i.981350954.24851787287?sp_atk=3b71911d-c4cb-4d48-b5a3-1b0c818ce83f&xptdk=3b71911d-c4cb-4d48-b5a3-1b0c818ce83f",
+          "tiktok": "https://vt.tokopedia.com/t/ZSFF2Ss61/",
+          "tokped": ""
         }
       }
 
     }
-
-
-
-
-
   ]
 }
